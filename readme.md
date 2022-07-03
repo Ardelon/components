@@ -9,11 +9,16 @@ UI Components basics with javascript
 - Guiding myself and other developers
 
 ## Components
-[x] Accordion
-[ ] Pagination
-[ ] Rating
-[ ] Quote
-[ ] Tabs
-[ ] Button
-[ ] Breadcrumb
-[ ] Rich Text Editor
+- [x] Accordion
+- [ ] Pagination
+- [ ] Rating
+- [ ] Quote
+- [ ] Tabs
+- [ ] Button
+- [ ] Breadcrumb
+- [ ] Rich Text Editor
+
+## Setup
+
+- For downloading npm packages, npm i
+- For building project npm run-script build 
