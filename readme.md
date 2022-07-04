@@ -21,4 +21,8 @@ UI Components basics with javascript
 ## Setup
 
 - For downloading npm packages, npm i
-- For building project npm run-script build 
+- For building project npm run-script build
+
+
+![Alt Text](https://media.giphy.com/media/sFPTTOZs18L2SnDewg/giphy.gif)
+
