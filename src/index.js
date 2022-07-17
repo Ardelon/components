@@ -1,6 +1,5 @@
 import './assets/style.scss';
-import { accordionData as data } from './dumyData/accordionData';
-import accordion from './components/accordion';
+import loadPagination from './components/pagination';
 
-const accordionElement = accordion({data});
-document.body.append(accordionElement);
+const pagination = loadPagination(50)
+document.body.append(pagination);
