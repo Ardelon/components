@@ -82,7 +82,7 @@ const paginationBar = (pageCount) => {
 	const goForward = () => {
 		pageIndex = pageIndex + 1 > pageCount ? pageCount : pageIndex + 1;
 		renderPage(pageIndex);
-		updateControlIndexGroup(pageIndex - buttonCount);
+		updateControlIndexGroup(pageIndex - buttonCount + 1);
 	};
 	goFirstButton.addEventListener('click', (e) => {
 		e.preventDefault();

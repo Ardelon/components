@@ -10,7 +10,7 @@ UI Components basics with javascript
 
 ## Components
 - [x] Accordion
-- [ ] Pagination
+- [x] Pagination
 - [ ] Rating
 - [ ] Quote
 - [ ] Tabs
@@ -25,4 +25,5 @@ UI Components basics with javascript
 
 
 ![Alt Text](https://media.giphy.com/media/sFPTTOZs18L2SnDewg/giphy.gif)
+![Alt Text](https://media.giphy.com/media/BHHaGgq7sXeqDNPGjA/giphy.gif)
 
