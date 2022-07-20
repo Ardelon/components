@@ -1,5 +1,5 @@
 import './assets/style.scss';
-import loadPagination from './components/pagination';
+import loadRating from './components/rating';
 
-const pagination = loadPagination(50)
-document.body.append(pagination);
+const rating = loadRating()
+document.body.append(rating);

@@ -7,6 +7,7 @@ const createElement = (config) => {
     classList       ? classList.forEach(className => {container.classList.add(className)})  : '';
     innerText       ? container.innerText = innerText                                       : '';
     innerHTML       ? container.innerHTML = innerHTML                                       : '';
+    src             ? container.src = src                                                   : '';
 
  
 
