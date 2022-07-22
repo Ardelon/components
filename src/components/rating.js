@@ -1,5 +1,6 @@
 import createElement from "../utilities/createElement";
-import * as starSrc from '../assets/star.svg';
+import * as starRegularSrc from '../assets/star-regular.svg';
+import * as starSolidSrc from '../assets/star-solid.svg';
 const loadRating = () => {
 
     //#region Constants
@@ -19,8 +20,8 @@ const loadRating = () => {
 
     //#region Append
     for (let i = 0; i < 5; i++) {
-        const ratingIcon = createElement({type:'span', classList:['rating-icon']})
-        ratingIcon.style.backgroundImage  = `url(${starSrc.default})`
+        const ratingIcon = createElement({type:'img',src:starRegularSrc.default, classList:['rating-icon']});
+        // ratingIcon.style.backgroundImage  = `url(${starRegularSrc.default})`
         ratingScaleIconContainer.append(ratingIcon)
     }
 

@@ -36,8 +36,11 @@
 
 .rating-icon {
 	width: 20px;
-	height: auto;
+	height: 20px;	
 	fill: yellow;
+	background-repeat: no-repeat;
+	color: yellow;
+	// background-color: red;
 }
 
 .rating-information-container {
