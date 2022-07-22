@@ -3,7 +3,7 @@ import createElement from '../utilities/createElement';
 const accordion = (props) => {
 	//#region Constants
 
-	const { data } = props;
+	const { accordionData: data } = props;
 
 	//#endregion
 
@@ -25,7 +25,7 @@ const accordion = (props) => {
 
 	//#region Generate Dynamic Elements
 
-	data.forEach(element => {
+	data.forEach((element) => {
 		const accordionElement = createElement({
 			classList: ['accordion-element'],
 		});
@@ -49,7 +49,6 @@ const accordion = (props) => {
 
 	//#endregion
 
-    
 	return accordionContainer;
 };
 
