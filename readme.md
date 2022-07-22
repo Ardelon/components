@@ -9,6 +9,9 @@ UI Components basics with javascript
 - Guiding myself and other developers
 
 ## Components
+
+[Reference Page](https://component.gallery/components/ "component.gallery")
+
 - [x] Accordion
 - [x] Pagination
 - [ ] Rating
