@@ -1,7 +1,8 @@
 import './assets/style.scss';
-
+import mapModule from 'npm-package-with-webpack'
 import loadAlert from './components/alert';
-
+// mapModule();
+console.log(mapModule);
 const acceptFunction = () => {
 	window.alert('This is acceptable');
 };

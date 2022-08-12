@@ -14,9 +14,10 @@ UI Components basics with javascript
 
 - [x] Accordion
 - [x] Pagination
+- [x] Alert
+- [x] Tabs
 - [ ] Rating
 - [ ] Quote
-- [ ] Tabs
 - [ ] Button
 - [ ] Breadcrumb
 - [ ] Rich Text Editor
