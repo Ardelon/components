@@ -12,8 +12,8 @@ UI Components basics with javascript
 
 [Reference Page](https://component.gallery/components/ "component.gallery")
 
-- [x] Accordion
-- [x] Pagination
+- [x] [Accordion](https://medium.com/@akeskinw/bile%C5%9Fen-akordiyon-aa050120ee6d)
+- [x] [Pagination](https://medium.com/@akeskinw/bile%C5%9Fen-sayfaland%C4%B1rma-7844e42eb48b)
 - [ ] Rating
 - [ ] Quote
 - [ ] Tabs
