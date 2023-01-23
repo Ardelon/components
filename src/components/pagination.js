@@ -1,9 +1,7 @@
-import createElement from '../utilities/createElement';
+import createElement from 'ardelon-create-element';
 
 const renderPage = (pageNumber) => {
-	const paginationPageList = [
-		...document.getElementsByClassName('pagination-page'),
-	];
+	const paginationPageList = [...document.getElementsByClassName('pagination-page')];
 	if (paginationPageList.length) {
 		paginationPageList[0].innerText = `This is Page ${pageNumber}`;
 	}

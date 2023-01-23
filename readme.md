@@ -14,9 +14,9 @@ UI Components basics with javascript
 
 - [x] [Accordion](https://medium.com/@akeskinw/bile%C5%9Fen-akordiyon-aa050120ee6d)
 - [x] [Pagination](https://medium.com/@akeskinw/bile%C5%9Fen-sayfaland%C4%B1rma-7844e42eb48b)
+- [ ] Tabs
 - [ ] Rating
 - [ ] Quote
-- [ ] Tabs
 - [ ] Button
 - [ ] Breadcrumb
 - [ ] Rich Text Editor

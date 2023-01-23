@@ -1,6 +1,6 @@
 import createElement from '../utilities/createElement';
 
-const accordion = (props) => {
+const loadAccordion = (props) => {
 	//#region Constants
 
 	const { accordionData: data } = props;
@@ -52,4 +52,4 @@ const accordion = (props) => {
 	return accordionContainer;
 };
 
-export default accordion;
+export default loadAccordion;
